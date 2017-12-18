@@ -6,7 +6,7 @@
 **MainJS**
 
    	    this.DOM.columns.left.style.opacity= 0;
-   		   this.DOM.columns.right.style.opacity = 0;
+   		this.DOM.columns.right.style.opacity = 0;
    		
 
 ----------
